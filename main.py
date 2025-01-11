@@ -81,11 +81,11 @@ for file in os.listdir("Materials"):
 # Create the plot
 plot.figure()
 plot.title(args.title)
-plot.xlabel(args.independent)
-plot.ylabel(args.dependent)
 plot.grid(True)
-x = [m.Characteristics[args.independent].Value for m in Materials]
-y =  [m.Characteristics[args.dependent].Value for m in Materials]
+x =     [m.Characteristics[args.independent].Value for m in Materials]
+y =     [m.Characteristics[args.dependent].Value for m in Materials]
+plot.xlabel(args.independent + " (" + Materials[0].Characteristics[args.independent].Unit + ")")
+plot.ylabel(args.dependent + " (" + Materials[0].Characteristics[args.dependent].Unit + ")")
 labels = [m.Name for m in Materials]
 plot.scatter(x, y)
 

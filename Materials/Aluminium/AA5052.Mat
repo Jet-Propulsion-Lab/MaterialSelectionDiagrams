@@ -1,0 +1,9 @@
+Type,                   Metal
+Name,                   Aluminium 5052
+Availibility Score,     7
+Characteristic,         Young Mod,              70_000_000_000,     10_000,     Pa,     RT,     RT,     RP,     RP
+Characteristic,         Density,                2680,               2,          kg/m^3, RT,     RT,     RP,     RP
+Characteristic,         Yield Strength,         193_000_000,        1000,       Pa,     RT,     RT,     RP,     RP
+Cost/kg,                1350,                   300,                PKR
+Cost/m^3,               3_618_000,              804_000,            PKR
+Cost/cm^3,              3.618,                  0.804,              PKR
