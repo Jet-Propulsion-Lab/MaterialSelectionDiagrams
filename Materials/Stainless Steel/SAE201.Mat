@@ -1,0 +1,17 @@
+Type,                   Metal
+Name,                   Steel 201
+Availibility Score,     10
+Characteristic,         Young Mod,              200_000_000_000,    10_000,     Pa,     RT,     RT,    RP,     RP
+Characteristic,         Yield Strength,         350_000_000,        1000,       Pa,     RT,     RT,    RP,     RP
+Characteristic,         Tensile Stength,        780_000_000,        1000,       Pa,     RT,     RT,    RP,     RP
+Characteristic,         Hardness,               100,                10,         Rb,     RT,     RT,    RP,     RP
+Characteristic,         Elongation,             16.5,               8.5,        %,      RT,     RT,    RP,     RP
+Characteristic,         Toughness,              30.6,               3.5,        kJ/m^2, RT,     RT,    RP,     RP
+Characteristic,         Density,                7833.413,           2,          kg/m^3, RT,     RT,    RP,     RP
+Characteristic,         Thermal Conductivity,   15,                 0.5,        W/m*K,  RT,     RT,    RP,     RP
+Characteristic,         Thermal Expansion Coeff,0.0000113,          0.0000001,  μm/m*K, 0,      871,   RP,     RP
+Characteristic,         Electrical Resistivity, 0.7,                0.1,        Ω*mm2/m,RT,     RT,    RP,     RP
+Characteristic,         Melting Point,          1425,               25,         C,      1400,   1450,  RP,     RP
+Cost/kg,                1000,                   100,                PKR
+Cost/m^3,               78334130,               783341.2,           PKR
+Cost/cm^3,              7.833413,               0.7833413,          PKR
